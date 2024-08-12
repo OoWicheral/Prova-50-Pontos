@@ -7,8 +7,18 @@
     width: 300px;
     height: 170px;
     position: relative;
-    left: 800px;
+    top: 50px;
+    left: 350px;
 }
+
+.logo-text{
+    font-family: "Bebas Neue";
+    font-size: 150px;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+
 
 .logo{
     display: flex;
@@ -20,7 +30,7 @@ html{
 
 .header{
     width: 100%;
-    height: 350px;
+    height: 400px;
     background-color: #e32636;
     display: flex;
 }
@@ -31,8 +41,8 @@ html{
     font-family: "Kosugi Maru";
     font-size: 50px;
     position: relative;
-    top: 250px;
-    left: 370px;
+    top: 300px;
+    right: 350px;
 
     
 }
@@ -43,8 +53,8 @@ html{
     font-family: "Kosugi Maru";
     font-size: 50px;
     position: relative;
-    top: 250px;
-    left: 400px;
+    top: 300px;
+    right: 290px;
 }
 
 .foto{
@@ -53,8 +63,8 @@ html{
     font-family: "Kosugi Maru";
     font-size: 50px;
     position: relative;
-    top: 250px;
-    left: 430px;
+    top: 300px;
+    right: 230px;
 }
 
 .contato{
@@ -63,7 +73,76 @@ html{
     font-family: "Kosugi Maru";
     font-size: 50px;
     position: relative;
-    top: 250px;
-    left: 460px;
+    top: 300px;
+    right: 170px;
 }
 
+.links a:hover{
+    color: black;
+    opacity: 80%;
+}
+
+.nav1{
+    display: flex;
+    flex-direction: row;
+}
+
+.luffy-shanks{
+    display: flex;
+    width: 600px;
+    position: relative;
+    left: 160px;
+    top: 100px;
+}
+
+.op-red{
+    font-family: "Bebas Neue";
+    color: #e32636;
+    font-size: 100px;
+    position: relative;
+    left: 180px;
+    top: 100px;
+}
+
+.op-red-text{
+    font-family: "Kosugi Maru";
+    color: black;
+    font-size: 22px;
+    display: flex;
+    position: relative;
+    right: 300px;
+    top: 200px;
+    width: 500px;
+
+}
+
+.nav2{
+    display: flex;
+    flex-direction: row;
+}
+
+.op-wallpaper{
+    position: relative;
+    top: 150px;
+    left: 160px;
+    width: 600px;
+}
+
+.luffy-zoro{
+    width: 500px;
+    height: 350px;
+    position: relative;
+    top: 150px;
+    left: 180px;
+}
+
+.op-text{
+    font-family: "Kosugi Maru";
+    color: black;
+    font-size: 25px;
+    display: flex;
+    position: relative;
+    right: 300px;
+    top: 550px;
+    width: 500px;
+}
