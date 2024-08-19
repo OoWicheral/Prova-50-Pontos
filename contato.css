@@ -1,0 +1,29 @@
+.form{
+    width: 600px;
+    height: 700px;
+    background-color: #e32636;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.name{
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+
+.input-name{
+    width: 400px;
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+
+.surname{
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+    right: 415px;
+}
