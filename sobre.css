@@ -1,0 +1,62 @@
+.nav{
+    height: 1230px;
+}
+
+.op-sobre-text{
+    text-align: justify;
+    font-family: "Kosugi Maru";
+    font-size: 22px;
+    width: 1200px;
+    position: relative;
+    left: 160px;
+    top: 80px;
+}
+
+.oda-title{
+    font-family: "Bebas Neue";
+    font-size: 100px;
+    color: #e32636;
+    position: relative;
+    left: 600px;
+    top: 200px;
+    width: 600px;
+    height: 100px;
+}
+
+.oda-image{
+    width: 400px;
+    position: relative;
+    left: 160px;
+    top: 100px;
+}
+
+.oda-text{
+    font-family: "Kosugi Maru";
+    font-size: 27px;
+    width: 600px;
+    position: relative;
+    left: 600px;
+    bottom: 400px;
+}
+
+.oda-button{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: #e32636;
+    color: white;
+    position: relative;
+    bottom: 380px;
+    left: 600px;
+}
+
+.sobre-text{
+    font-family: "Kosugi Maru";
+    font-size: 25px;
+    width: 1200px;
+    text-align: justify;
+    position: relative;
+    bottom: 300px;
+    left: 160px;
+}
