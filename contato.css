@@ -1,4 +1,5 @@
 .form{
+    border-radius: 10px;
     width: 600px;
     height: 700px;
     background-color: #e32636;
@@ -7,23 +8,95 @@
     top: 100px;
 }
 
-.name{
-    font-size: 20px;
+.contato-text{
+    font-size: 50px;
     position: relative;
-    top: 20px;
-    left: 60px;
+    top: 50px;
+    left: 130px;
+    font-family: "Kosugi Maru";
+    color: white;
+}
+
+.name{
+    font-size: 25px;
+    position: relative;
+    top: 150px;
+    left: 80px;
+    font-family: "Kosugi Maru";
+    color: white;
 }
 
 .input-name{
-    width: 400px;
+    border-radius: 5px;
+    width: 345px;
     position: relative;
-    top: 20px;
-    left: 60px;
+    top: 150px;
+    left: 125px;
+    font-family: "Kosugi Maru";
 }
 
 .surname{
-    font-size: 20px;
+    font-size: 25px;
     position: relative;
-    top: 80px;
-    right: 415px;
+    top: 220px;
+    right: 355px;
+    font-family: "Kosugi Maru";
+    color: white;
+}
+
+.input-surname{
+    border-radius: 5px;
+    width: 345px;
+    position: relative;
+    top: 190px;
+    left: 180px;
+    font-family: "Kosugi Maru";
+}
+
+.tel{
+    font-size: 25px;
+    position: relative;
+    top: 270px;
+    right: 300px;
+    font-family: "Kosugi Maru";
+    color: white;
+}
+
+.input-tel{
+    border-radius: 5px;
+    width: 345px;
+    position: relative;
+    top: 240px;
+    left: 180px;
+    font-family: "Kosugi Maru";
+}
+
+.endereco{
+    font-size: 25px;
+    position: relative;
+    top: 330px;
+    right: 300px;
+    font-family: "Kosugi Maru";
+    color: white;
+}
+
+.input-endereco{
+    border-radius: 5px;
+    width: 345px;
+    position: relative;
+    top: 305px;
+    left: 180px;
+    font-family: "Kosugi Maru";
+}
+
+.enviar{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 400px;
+    left: 150px;
 }
